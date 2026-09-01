@@ -1,0 +1,7 @@
+__pycache__/
+*.py[cod]
+.venv/
+output/
+outputs/
+examples/generated_*.png
+.DS_Store
